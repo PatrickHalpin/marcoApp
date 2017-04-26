@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.MarcoApp" version="1.2.0"  versionCode="10200" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Marco</name>
+    <description>
+        Application 
+    </description>
+    <author email="PatrickHalpin@live.ie" href="www.PatrickHalpin.io">
+        PatrickHaloin
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+   <icon src="icon/icon.png" width="180" height="180" />
+</widget>

@@ -1,0 +1,186 @@
+html
+{
+    max-width: 99vw;
+}
+
+body
+{
+    max-width: 99vw;
+    background-color: #17212a;
+
+}
+input
+{
+    -webkit-appearance: none;
+     border-radius:0;
+}
+
+canvas
+{
+    width:100vw;
+    height:20vh;
+    display:block; 
+    background:#17212a;
+}
+
+.indexMenu
+{
+    margin-top: 2vh;
+}
+
+.abtTitle
+{
+    text-align: center;
+    color:#e2e2e2;
+    text-decoration: none;
+    font-family: futura;
+    font-size: 5vh;
+}
+
+.txt
+{
+    text-align: justify;
+    margin:5%;
+    color:#e2e2e2;
+    text-decoration: none;
+    font-family: futura;
+    font-size: 3vh;
+}
+
+#logo
+{
+    margin-top: 10vh;
+    text-align: center;
+
+}
+
+.menu
+{
+    color:#e2e2e2;
+    text-decoration: none;
+    font-family: futura;
+    font-size: 10vh;
+}
+
+.menuScr
+{
+    color:#e2e2e2;
+    text-decoration: none;
+    font-family: futura;
+    font-size: 5vh;
+}
+
+.menuDiv
+{
+    text-align: center;
+    margin-top: 10vh;
+}
+
+#container
+{
+    text-align: center;
+    max-width: 99vw;
+     margin-top: 10vh;
+    text-align: center;
+}
+
+#sub
+{
+    margin-top : 10vh;
+}
+
+#input
+{
+    font-size: 3vh;
+    text-align: center;
+    background-color: #17212a;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #50c7a0;
+    color: #e2e2e2;
+    margin-top: 10vh;
+    font-family: futura;
+    padding: 4px 32px;
+
+}
+
+/*#hello
+{
+    font-size: 4vh;
+    color: #e2e2e2;
+    font-family: futura;
+    text-align: center;
+    margin-top: 10vh;
+}*/
+
+#menulist 
+{
+    color: #e2e2e2;
+    font-family: futura;
+    text-align: center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    height:5vh;
+    border:5px solid #50c7a0;
+    width:260px;
+    text-indent: 50%;
+    background-color: #17212a;
+}
+
+
+.select-style select:focus 
+{
+    outline: none;
+}
+
+#div
+{
+    margin-top: 10vh;
+}
+
+/*#dis
+{
+    margin-top:-5vh;
+}*/
+
+.heading
+{
+    color: #50c7a0;
+    font-size: 3vh;
+    text-align: center;
+    font-family: futura;
+    margin:0px;
+}
+
+.sub
+{
+    margin-top:0px;
+    padding: 0px;
+    color: #e2e2e2;
+    font-size: 10vh;
+    text-align: center;
+    font-family: futura;
+
+}
+
+#Btncon
+{
+    margin-top:10vh;
+    text-align: center;
+}
+.button 
+{
+    background-color:#17212a; 
+    font-family: futura;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #50c7a0;
+    color: #e2e2e2;
+    padding: 4px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 5vh;
+    margin: 4px 2px;
+}

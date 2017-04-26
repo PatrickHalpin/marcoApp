@@ -1,0 +1,21 @@
+{
+  "name": "Marco",
+  "version": "1.1.0",
+  "description": "4th year project app",
+  "repository": {
+    "type": "git",
+    "url": "www.Patrickhalpin.i"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Patrickhalpin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "www.Patrickhalpin.io"
+  },
+  "homepage": "www.Patrickhalpin.i"
+}

@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.PH.MarcoApp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.PH.MarcoApp"
+        }
+    }
+}
